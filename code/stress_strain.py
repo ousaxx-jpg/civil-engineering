@@ -74,6 +74,6 @@ e-->XX    XX  h
             }
 
 print('Select material (s)teel, (a)luminum or (t)imber:')
-mat = input()s
+mat = input()
 print(steel['name'])
 print(sections['RH'])
