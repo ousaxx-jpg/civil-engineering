@@ -17,11 +17,18 @@
         "source": "github",
         "repo": "DietrichGebert/ponytail"
       }
+    },
+    "instagram-mcp": {
+      "source": {
+        "source": "github",
+        "repo": "IvanBBaev/instagram-mcp"
+      }
     }
   },
   "enabledPlugins": {
     "claude-code-setup@claude-plugins-official": true,
     "lemo-opuscar@lemolab": true,
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "instagram-mcp-ai@instagram-mcp": true
   }
 }
